@@ -11,11 +11,11 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-- **Programming Languages:** Python | C | JavaScript
-- **AI, ML & Data Science:** PyTorch | Scikit-learn | OpenCV | HuggingFace | NumPy | Pandas | Matplotlib | Seaborn
-- **Back-end & APIs:** Django | Flask | FastAPI 
+- **Programming Languages:** Python | C 
+- **AI, ML & Data Science:** PyTorch | Scikit-learn | OpenCV | HuggingFace | NumPy | Pandas | Matplotlib | Seaborn 
+- **Back-end & APIs:** Flask | FastAPI 
 - **Front-end:** React | Tailwind CSS | CSS3
-- **Databases:** MySQL | Firebase
+- **Databases:** MySQL 
 - **DevOps & Tools:** Git | Docker | AWS | Jupyter | Anaconda | Streamlit
 
 <h2> 🛠 &nbsp;My Top Skills</h2>
@@ -102,14 +102,14 @@
 
 <h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
-<p align="left">
-<a href="mailto:rex91320@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rex91320@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://linkedin.com/in/Tejas I M" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Tejas%20I%20M-blue?style=flat-square&logo=linkedin" alt="Tejas I M" /></a>
-<a href="https://github.com/Tejas-I-M" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-Tejas--I--M-black?style=flat-square&logo=github" alt="Tejas-I-M" /></a>
-<a href="https://kaggle.com/tejasim" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-tejasim-20beff?style=flat-square&logo=kaggle" alt="tejasim" /></a>
-<a href="https://instagram.com/tejas_i_m" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-tejas__i__m-E4405F?style=flat-square&logo=instagram" alt="tejas_i_m" /></a>
-<a href="https://youtube.com/@tejas--i--m" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-Extro--tejas-FF0000?style=flat-square&logo=youtube" alt="@tejas--i--m" /></a>
-<a href="https://auth.geeksforgeeks.org/user/TEJAS%20I%20M" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksForGeeks-TEJAS%20I%20M-2F8D46?style=flat-square&logo=geeksforgeeks" alt="TEJAS I M" /></a>
+<p align="center">
+  <a href="mailto:rex91320@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rex91320@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/Tejas I M" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Tejas%20I%20M-blue?style=for-the-badge&logo=linkedin" alt="Tejas I M" /></a>
+  <a href="https://github.com/Tejas-I-M" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-Tejas--I--M-black?style=for-the-badge&logo=github" alt="Tejas-I-M" /></a>
+  <a href="https://kaggle.com/tejasim" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-tejasim-20beff?style=for-the-badge&logo=kaggle" alt="tejasim" /></a>
+  <a href="https://instagram.com/tejas_i_m" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-tejas__i__m-E4405F?style=for-the-badge&logo=instagram" alt="tejas_i_m" /></a>
+  <a href="https://youtube.com/@tejas--i--m" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-Extro--tejas-FF0000?style=for-the-badge&logo=youtube" alt="@tejas--i--m" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/TEJAS%20I%20M" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksForGeeks-TEJAS%20I%20M-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="TEJAS I M" /></a>
 </p>
 
 <div align="center">
