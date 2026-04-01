@@ -1,29 +1,119 @@
-# Hi 👋, I'm TEJAS I M
+<h1 align="center">👋 Hi, I'm <a href="https://linkedin.com/in/Tejas I M" target="_blank"> TEJAS I M </a></h1>
+<h3 align="center">
 
-### AI/ML Engineer
+</h3>
 
-- 🌱 I'm currently learning **Machine learning and Deep learning**
+- 💼 **AI/ML Engineer** passionate about building intelligent systems and data-driven solutions.
+- 🌱 I'm currently deepening my knowledge in **Machine learning and Deep learning**.
+- 🛠️ Actively building projects like a **Social Distance & Mask Auditor** and an **Air Quality Index (AQI) Forecast** model.
+- ⚡ **Fun fact**: I also create YouTube videos! Check out my content on [Extro-tejas](https://www.youtube.com/@Extro-tejas).
+- 📫 **How to reach me**: [rex91320@gmail.com](mailto:rex91320@gmail.com)
 
-- 📫 How to reach me **rex91320@gmail.com**
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
-- ⚡ Fun fact **I also do yt videos.**
+- **Programming Languages:** Python | C | JavaScript
+- **AI, ML & Data Science:** PyTorch | Scikit-learn | OpenCV | HuggingFace | NumPy | Pandas | Matplotlib | Seaborn
+- **Back-end & APIs:** Django | Flask | FastAPI 
+- **Front-end:** React | Tailwind CSS | CSS3
+- **Databases:** MySQL | Firebase
+- **DevOps & Tools:** Git | Docker | AWS | Jupyter | Anaconda | Streamlit
 
-- 📝 I regularly write articles on **[https://www.youtube.com/@Extro-tejas](https://www.youtube.com/@Extro-tejas)**
+<h2> 🛠 &nbsp;My Top Skills</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Tejas-I-M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tejas-I-M" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Tejas I M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tejas I M" height="30" width="40" /></a>
-<a href="https://kaggle.com/tejasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tejasim" height="30" width="40" /></a>
-<a href="https://instagram.com/tejas_i_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejas_i_m" height="30" width="40" /></a>
-<a href="https://youtube.com/@tejas--i--m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tejas--i--m" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/TEJAS    I M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="TEJAS    I M" height="30" width="40" /></a>
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=py" title="Python" width="70" alt="Python"><br>Python
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="70" alt="PyTorch"><br>PyTorch
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=scikitlearn" title="Scikit-Learn" width="70" alt="Scikit-Learn"><br>Scikit-Learn
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" width="70" alt="OpenCV"><br>OpenCV
+        </td>
+        <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="70" alt="Pandas"><br>Pandas
+        </td>
+        <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="70" alt="NumPy"><br>NumPy
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=django" title="Django" width="70" alt="Django"><br>Django
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" width="70" alt="FastAPI"><br>FastAPI
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=flask" title="Flask" width="70" alt="Flask"><br>Flask
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="70" alt="Docker"><br>Docker
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=aws" title="AWS" width="70" alt="AWS"><br>AWS
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="70" alt="MySQL"><br>MySQL
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=react" title="React" width="70" alt="React"><br>React
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="70" alt="JavaScript"><br>JavaScript
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="70" alt="Tailwind CSS"><br>Tailwind
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=git" title="Git" width="70" alt="Git"><br>Git
+        </td>
+    </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-I-M/Tejas-I-M/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-I-M/Tejas-I-M/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tejas-I-M/Tejas-I-M/output/github-snake.svg" />
+</picture>
+
+<img alt="Tejas's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-I-M&theme=react-dark" />
+
+<h2> 🌟 Projects </h2>
+
+- **Social Distance & Mask Auditor:** An AI-powered vision project designed to detect face masks and enforce social distancing protocols using deep learning and object detection frameworks.
+- **Air Quality Index (AQI) Forecast:** A machine learning model utilizing data science libraries (Pandas, NumPy, Scikit-learn) to analyze historical data and predict future Air Quality Index levels.
+
+<h2> 📊 My Github Stats </h2>
+<p align="center">
+<a href="https://github.com/Tejas-I-M">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejas-I-M&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-I-M&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-I-M&theme=dark" alt="Tejas's GitHub Streak" /></p>
+ </div>
 
+<h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
+<p align="left">
+<a href="mailto:rex91320@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rex91320@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://linkedin.com/in/Tejas I M" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Tejas%20I%20M-blue?style=flat-square&logo=linkedin" alt="Tejas I M" /></a>
+<a href="https://github.com/Tejas-I-M" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-Tejas--I--M-black?style=flat-square&logo=github" alt="Tejas-I-M" /></a>
+<a href="https://kaggle.com/tejasim" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-tejasim-20beff?style=flat-square&logo=kaggle" alt="tejasim" /></a>
+<a href="https://instagram.com/tejas_i_m" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-tejas__i__m-E4405F?style=flat-square&logo=instagram" alt="tejas_i_m" /></a>
+<a href="https://youtube.com/@tejas--i--m" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-Extro--tejas-FF0000?style=flat-square&logo=youtube" alt="@tejas--i--m" /></a>
+<a href="https://auth.geeksforgeeks.org/user/TEJAS%20I%20M" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksForGeeks-TEJAS%20I%20M-2F8D46?style=flat-square&logo=geeksforgeeks" alt="TEJAS I M" /></a>
+</p>
 
-
-
+<div align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
+   </a>
+</div>
