@@ -14,7 +14,7 @@
 - **Programming Languages:** Python | C 
 - **AI, ML & Data Science:** PyTorch | Scikit-learn | OpenCV | HuggingFace | NumPy | Pandas | Matplotlib | Seaborn 
 - **Back-end & APIs:** Flask | FastAPI 
-- **Front-end:** React | Tailwind CSS | CSS3
+- **Front-end:** HTML |  CSS | JAVASCRIPT | REACT
 - **Databases:** MySQL 
 - **DevOps & Tools:** Git | Docker | AWS | Jupyter | Anaconda | Streamlit
 
