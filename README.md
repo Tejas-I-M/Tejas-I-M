@@ -107,7 +107,7 @@
   <a href="https://linkedin.com/in/Tejas I M" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Tejas%20I%20M-blue?style=for-the-badge&logo=linkedin" alt="Tejas I M" /></a>
   <a href="https://github.com/Tejas-I-M" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-Tejas--I--M-black?style=for-the-badge&logo=github" alt="Tejas-I-M" /></a>
   <a href="https://kaggle.com/tejasim" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-tejasim-20beff?style=for-the-badge&logo=kaggle" alt="tejasim" /></a>
-  <a href="https://instagram.com/tejas_i_m" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-tejas__i__m-E4405F?style=for-the-badge&logo=instagram" alt="tejas_i_m" /></a>
+  <a href="https://instagram.com/tejas_i_m" target="_blank"><img align="center" src="[https://img.shields.io/badge/Instagram-tejas__i__m-E4405F?style=for-the-badge&logo=instagram"](https://www.instagram.com/tejas__i__m/) alt="tejas_i_m" /></a>
   <a href="https://youtube.com/@tejas--i--m" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-Extro--tejas-FF0000?style=for-the-badge&logo=youtube" alt="@tejas--i--m" /></a>
   <a href="https://auth.geeksforgeeks.org/user/TEJAS%20I%20M" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksForGeeks-TEJAS%20I%20M-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="TEJAS I M" /></a>
 </p>
