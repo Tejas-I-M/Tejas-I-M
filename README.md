@@ -85,8 +85,8 @@
 
 <h2> 🌟 Projects </h2>
 
-- **Social Distance & Mask Auditor:** An AI-powered vision project designed to detect face masks and enforce social distancing protocols using deep learning and object detection frameworks.
-- **Air Quality Index (AQI) Forecast:** A machine learning model utilizing data science libraries (Pandas, NumPy, Scikit-learn) to analyze historical data and predict future Air Quality Index levels.
+- 
+- 
 
 <h2> 📊 My Github Stats </h2>
 <p align="center">
