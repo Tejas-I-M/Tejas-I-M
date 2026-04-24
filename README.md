@@ -100,16 +100,36 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-I-M&theme=dark" alt="Tejas's GitHub Streak" /></p>
  </div>
 
-<h2> 🤝🏻 &nbsp;Connect with Me </h2>
+<h2 align="center">🤝 Connect with Me</h2>
 
-<p align="center">
-  <a href="mailto:rex91320@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rex91320@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/Tejas I M" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Tejas%20I%20M-blue?style=for-the-badge&logo=linkedin" alt="Tejas I M" /></a>
-  <a href="https://github.com/Tejas-I-M" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-Tejas--I--M-black?style=for-the-badge&logo=github" alt="Tejas-I-M" /></a>
-  <a href="https://kaggle.com/tejasim" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-tejasim-20beff?style=for-the-badge&logo=kaggle" alt="tejasim" /></a>
-  <a href="https://youtube.com/@tejas--i--m" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-Tejas_exe-FF0000?style=for-the-badge&logo=youtube" alt="@tejas--i--m" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/TEJAS%20I%20M" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksForGeeks-TEJAS%20I%20M-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="TEJAS I M" /></a>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+<a href="mailto:rex91320@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rex91320@gmail.com-blue?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/Tejas I M" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Tejas%20I%20M-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Tejas-I-M" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Tejas--I--M-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://kaggle.com/tejasim" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-tejasim-20BEFF?style=for-the-badge&logo=kaggle">
+</a>
+
+<a href="https://youtube.com/@tejasei--m" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Tejas%20Exe-FF0000?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/TEJAS%20I%20M" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Tejas%20I%20M-green?style=for-the-badge&logo=geeksforgeeks">
+</a>
+
+</div>
+
 
 <div align="center">
    <a href="https://git.io/typing-svg">
