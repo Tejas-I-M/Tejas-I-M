@@ -4,7 +4,7 @@
 </h3>
 
 - 💼 **AI/ML Engineer** passionate about building intelligent systems and data-driven solutions.
-- 🌱 I'm currently deepening my knowledge in **Machine learning and Deep learning**.
+- 🌱 I'm currently deepening my knowledge in **PYHTON FULL STACK,CS FUNDAMENTALS**.
 - 🛠️ 
 - ⚡ **Fun fact**: I also create YouTube videos! Check out my content on [tejas--i--m](www.youtube.com/@tejas--i--m).
 - 📫 **How to reach me**: [rex91320@gmail.com](mailto:rex91320@gmail.com)
