@@ -3,20 +3,19 @@
 
 </h3>
 
-- 💼 **AI/ML Engineer** passionate about building intelligent systems and data-driven solutions.
-- 🌱 I'm currently deepening my knowledge in **PYHTON FULL STACK,CS FUNDAMENTALS**.
-- 🛠️ 
-- ⚡ **Fun fact**: I also create YouTube videos! Check out my content on [tejas--i--m](www.youtube.com/@tejas--i--m).
+- 💼 **Python Full Stack Developer (Fresher)** who enjoys building web applications from the database to the user interface.
+- 🌱 I'm currently deepening my knowledge in **Python Full Stack Development and CS Fundamentals**.
+- 🛠️ I'm building projects with **Flask, REST APIs, SQLite and React.js**.
+- ⚡ **Fun fact**: I also create YouTube videos! Check out my content on [tejas--i--m](https://www.youtube.com/@tejas--i--m).
 - 📫 **How to reach me**: [rex91320@gmail.com](mailto:rex91320@gmail.com)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-- **Programming Languages:** Python | C 
-- **AI, ML & Data Science:** PyTorch | Scikit-learn | OpenCV | HuggingFace | NumPy | Pandas | Matplotlib | Seaborn 
-- **Back-end & APIs:** Flask | FastAPI 
-- **Front-end:** HTML |  CSS | JAVASCRIPT | REACT
-- **Databases:** MySQL 
-- **DevOps & Tools:** Git | Docker | AWS | Jupyter | Anaconda | Streamlit
+- **Programming Languages:** Python | JavaScript | SQL
+- **Back-end & APIs:** Flask | REST APIs
+- **Front-end:** HTML | CSS | JavaScript | React.js
+- **Databases:** SQLite
+- **Tools:** Git | GitHub
 
 <h2> 🛠 &nbsp;My Top Skills</h2>
 
@@ -26,51 +25,30 @@
             <img src="https://skillicons.dev/icons?i=py" title="Python" width="70" alt="Python"><br>Python
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="70" alt="PyTorch"><br>PyTorch
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=scikitlearn" title="Scikit-Learn" width="70" alt="Scikit-Learn"><br>Scikit-Learn
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" width="70" alt="OpenCV"><br>OpenCV
-        </td>
-        <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="70" alt="Pandas"><br>Pandas
-        </td>
-        <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="70" alt="NumPy"><br>NumPy
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=django" title="Django" width="70" alt="Django"><br>Django
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" width="70" alt="FastAPI"><br>FastAPI
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
             <img src="https://skillicons.dev/icons?i=flask" title="Flask" width="70" alt="Flask"><br>Flask
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="70" alt="Docker"><br>Docker
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=aws" title="AWS" width="70" alt="AWS"><br>AWS
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="70" alt="MySQL"><br>MySQL
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=react" title="React" width="70" alt="React"><br>React
         </td>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="70" alt="JavaScript"><br>JavaScript
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="70" alt="Tailwind CSS"><br>Tailwind
+            <img src="https://skillicons.dev/icons?i=react" title="React" width="70" alt="React"><br>React
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" width="70" alt="SQLite"><br>SQLite
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=html" title="HTML" width="70" alt="HTML"><br>HTML
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=css" title="CSS" width="70" alt="CSS"><br>CSS
         </td>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=git" title="Git" width="70" alt="Git"><br>Git
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="70" alt="GitHub"><br>GitHub
         </td>
     </tr>
 </table>
@@ -85,8 +63,13 @@
 
 <h2> 🌟 Projects </h2>
 
-- 
-- 
+- 🔗 **[QuickLink: URL Shortener with Click Tracking](https://github.com/Tejas-I-M/quicklink)**
+  Converts long URLs into short links and tracks how many times each link is clicked. Includes user registration and login (password hashing, Flask sessions), a dashboard with click counts, and URL validation.
+  **Tech:** Python, Flask, SQLite, HTML, CSS, JavaScript
+
+- 🏥 **[BookMyDoc: Clinic Appointment Booking System](https://github.com/Tejas-I-M/bookmydoc)**
+  A full-stack booking app with separate Patient and Doctor logins. Patients search doctors, book, cancel and view history. Doctors set availability, view daily appointments and add visit notes. Prevents double booking and booking in the past.
+  **Tech:** Python, Flask REST APIs, SQLite, HTML, CSS, JavaScript
 
 <h2> 📊 My Github Stats </h2>
 <p align="center">
@@ -116,11 +99,7 @@
   <img src="https://img.shields.io/badge/GitHub-Tejas--I--M-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://kaggle.com/tejasim" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-tejasim-20BEFF?style=for-the-badge&logo=kaggle">
-</a>
-
-<a href="https://youtube.com/@tejasei--m" target="_blank">
+<a href="https://youtube.com/@tejas--i--m" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Tejas%20Exe-FF0000?style=for-the-badge&logo=youtube">
 </a>
 
